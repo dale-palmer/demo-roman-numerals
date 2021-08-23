@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace RomanNumerals.Test
+namespace RomanNumerals.Tests
 {
     class RomanNumeralsConverterTests
     {

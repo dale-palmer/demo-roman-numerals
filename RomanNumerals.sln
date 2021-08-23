@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals", "RomanNumerals\RomanNumerals.csproj", "{44263337-94BB-46F6-BA5D-66703481CB38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals.Test", "RomanNumerals.Test\RomanNumerals.Test.csproj", "{910B99EF-037D-4253-A813-86A0DFDF9166}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals.Tests", "RomanNumerals.Tests\RomanNumerals.Tests.csproj", "{910B99EF-037D-4253-A813-86A0DFDF9166}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
